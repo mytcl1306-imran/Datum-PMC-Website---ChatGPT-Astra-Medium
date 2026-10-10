@@ -1,0 +1,1 @@
+<section class="page-heading wrap"><p class="eyebrow"><?= e($settings['brand_descriptor']) ?></p><h1><?= e($page['title']) ?></h1><p class="lede"><?= e($page['summary']) ?></p></section><section class="wrap prose section"><?= paragraphs($page['body']) ?><a class="button" href="/contact">Discuss your project ↗</a></section>

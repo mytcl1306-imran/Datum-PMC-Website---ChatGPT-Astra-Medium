@@ -1,0 +1,27 @@
+{
+  "executed": [
+    "JavaScript syntax: workspace.js",
+    "JavaScript syntax: site.js",
+    "Python syntax: bin/configure.py",
+    "Python syntax: tests/http_smoke.py",
+    "Shell syntax: backup.sh",
+    "Shell syntax: restore.sh",
+    "Compose YAML structure",
+    "Composer JSON",
+    "SVG XML assets",
+    "Local asset and template targets",
+    "Schema table/foreign-key target consistency: 34 tables",
+    "All 24 services and home settings seeded",
+    "No deployed credentials included",
+    "Version-history permission boundary present (static)"
+  ],
+  "not_executed": [
+    "PHP syntax and runtime",
+    "MySQL migrations",
+    "Docker build",
+    "Supabase authentication/MFA/storage",
+    "Browser and accessibility QA",
+    "Lighthouse and load testing"
+  ],
+  "status": "SOURCE_CHECKS_ONLY_NOT_PRODUCTION_VERIFIED"
+}
