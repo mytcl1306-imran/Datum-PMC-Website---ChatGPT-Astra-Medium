@@ -1,0 +1,934 @@
+# MASTER PROMPT
+
+You are a world-class Senior Full Stack Software Architect, UI/UX Designer, Brand Strategist, SEO Expert, CRO Specialist, Security Engineer, DevOps Engineer, Accessibility Expert, and Performance Optimization Specialist.
+
+Your task is to build a premium, production-ready, dynamic business website for a Civil Engineering Freelancer providing Project Management Consultancy Services.
+
+The website must be comparable in quality to websites developed by top digital agencies charging over USD 100,000.
+
+Do not generate demo code.
+
+Do not generate placeholders.
+
+Do not skip any functionality.
+
+Every feature must be fully functional.
+
+The final result must be deployable without modification.
+
+---
+
+## PROJECT OVERVIEW
+
+Business Type
+
+Civil Engineering Freelancer
+
+Industry
+
+Construction
+Project Management Consultancy
+Construction Supervision
+Quantity Surveying
+QA/QC
+Planning
+Billing
+Contracts
+Tendering
+PMC Services
+
+Target Clients
+
+Real Estate Developers
+
+Builders
+
+Infrastructure Companies
+
+Industrial Clients
+
+Commercial Projects
+
+Residential Projects
+
+Architects
+
+Structural Consultants
+
+Government Organizations
+
+Private Companies
+
+International Clients
+
+Target Geography
+
+India
+
+Middle East
+
+Africa
+
+Australia
+
+Europe
+
+United States
+
+Website Goals
+
+Generate Leads
+
+Build Trust
+
+Showcase Portfolio
+
+Display Technical Expertise
+
+Generate Consultation Requests
+
+Convert Visitors into Clients
+
+Improve Search Rankings
+
+Support Future Scaling
+
+---
+
+## TECHNOLOGY STACK
+
+Frontend
+
+HTML5
+
+CSS3
+
+Bootstrap 5
+
+JavaScript ES2024
+
+jQuery
+
+AOS Animation
+
+GSAP
+
+Swiper.js
+
+Three.js
+
+Particles.js
+
+Lottie Animation
+
+Chart.js
+
+Font Awesome Pro
+
+Bootstrap Icons
+
+Google Fonts
+
+Backend
+
+PHP 8.3
+
+MySQL 8
+
+Supabase Authentication
+
+Supabase Database
+
+Supabase Storage
+
+REST APIs
+
+AJAX
+
+JSON
+
+Deployment
+
+Apache
+
+Nginx
+
+Cloudflare
+
+HTTPS
+
+Docker Ready
+
+Git Ready
+
+---
+
+## DESIGN STYLE
+
+Modern
+
+Premium
+
+Luxury
+
+Corporate
+
+Minimal
+
+Professional
+
+Elegant
+
+Engineering Inspired
+
+Large White Spaces
+
+Glass Morphism
+
+Soft Shadows
+
+Animated Backgrounds
+
+Smooth Page Transitions
+
+Micro Interactions
+
+Parallax Effects
+
+Hover Animations
+
+SVG Animations
+
+Premium Icons
+
+Custom Illustrations
+
+Responsive Design
+
+Dark Mode
+
+Light Mode
+
+Automatic Theme Detection
+
+---
+
+## BRANDING
+
+Design a complete brand identity including
+
+Logo
+
+Color Palette
+
+Typography
+
+Iconography
+
+Illustration Style
+
+Photography Style
+
+Buttons
+
+Cards
+
+Animations
+
+Spacing System
+
+Design Tokens
+
+Component Library
+
+---
+
+## PAGES
+
+Home
+
+About
+
+Services
+
+Projects
+
+Industries
+
+Portfolio
+
+Case Studies
+
+Project Gallery
+
+Testimonials
+
+Clients
+
+Certifications
+
+Awards
+
+Resources
+
+Blog
+
+Career
+
+FAQ
+
+Downloads
+
+News
+
+Events
+
+Contact
+
+Privacy Policy
+
+Terms
+
+Cookies
+
+404
+
+Search Results
+
+Sitemap
+
+---
+
+## HOME PAGE
+
+Premium Hero
+
+Animated Background
+
+Construction Animation
+
+Statistics Counter
+
+Client Logos
+
+Featured Projects
+
+Service Overview
+
+Why Choose Us
+
+Construction Timeline
+
+Testimonials
+
+Industries Served
+
+Project Locations Map
+
+Latest Blog
+
+Call To Action
+
+Newsletter
+
+Footer
+
+---
+
+## SERVICES
+
+Project Management
+
+Construction Management
+
+Planning
+
+Scheduling
+
+Billing
+
+Estimation
+
+Tendering
+
+Contracts Management
+
+Quantity Surveying
+
+Cost Control
+
+Project Monitoring
+
+QA/QC
+
+Safety Management
+
+Vendor Management
+
+Site Supervision
+
+Progress Monitoring
+
+Delay Analysis
+
+Risk Management
+
+Value Engineering
+
+Claims Management
+
+Document Control
+
+Project Audits
+
+Feasibility Studies
+
+Construction Consultancy
+
+---
+
+## PROJECTS
+
+Dynamic Filtering
+
+Search
+
+Categories
+
+Location
+
+Budget
+
+Status
+
+Completion Date
+
+Project Type
+
+Photo Gallery
+
+Video Gallery
+
+360 Degree View
+
+Project Documents
+
+Project Timeline
+
+Charts
+
+Milestones
+
+---
+
+## CLIENT DASHBOARD
+
+Secure Login
+
+Dashboard
+
+Project Progress
+
+Reports
+
+Invoices
+
+Documents
+
+Photos
+
+Videos
+
+Meeting Minutes
+
+RFI
+
+Snag Lists
+
+Approvals
+
+Download Center
+
+Notifications
+
+---
+
+## ADMIN PANEL
+
+Dashboard
+
+Analytics
+
+Lead Management
+
+CRM
+
+Projects
+
+Portfolio
+
+Services
+
+Testimonials
+
+Clients
+
+Invoices
+
+Documents
+
+Media Library
+
+Blog
+
+SEO
+
+Email Templates
+
+Forms
+
+Settings
+
+Roles
+
+Permissions
+
+Logs
+
+Backup
+
+---
+
+## CMS
+
+Every section editable.
+
+No hardcoded content.
+
+Support
+
+CRUD
+
+Media Upload
+
+Rich Text Editor
+
+SEO Fields
+
+Draft
+
+Publish
+
+Version Control
+
+Autosave
+
+---
+
+## CONTACT SYSTEM
+
+Multiple Forms
+
+AJAX
+
+Validation
+
+Google Maps
+
+WhatsApp
+
+Call Button
+
+Email
+
+SMS
+
+Appointment Booking
+
+Calendar Integration
+
+OTP Verification
+
+Spam Protection
+
+reCAPTCHA
+
+Auto Response
+
+Lead Assignment
+
+CRM Integration
+
+---
+
+## SEO
+
+100/100 Technical SEO
+
+Schema.org
+
+Open Graph
+
+Twitter Cards
+
+Canonical URLs
+
+XML Sitemap
+
+Robots.txt
+
+Breadcrumb
+
+Meta Tags
+
+Lazy Loading
+
+Image Optimization
+
+Structured Data
+
+Rich Snippets
+
+Internal Linking
+
+Core Web Vitals Optimization
+
+---
+
+## MARKETING
+
+Lead Magnets
+
+Newsletter
+
+Email Automation
+
+Popup Forms
+
+Exit Intent
+
+Social Proof
+
+Client Reviews
+
+Before After Projects
+
+ROI Calculator
+
+Project Cost Calculator
+
+Construction Timeline Calculator
+
+---
+
+## AI FEATURES
+
+AI Chat Assistant
+
+Project Cost Estimator
+
+Construction FAQ
+
+Recommendation Engine
+
+Document Search
+
+Smart Search
+
+Voice Search
+
+---
+
+## SECURITY
+
+OWASP Compliance
+
+SQL Injection Protection
+
+XSS Protection
+
+CSRF Protection
+
+CSP
+
+Rate Limiting
+
+Encryption
+
+Password Hashing
+
+Audit Logs
+
+Role Based Access
+
+Two Factor Authentication
+
+---
+
+## PERFORMANCE
+
+Lighthouse Score above 98
+
+PageSpeed above 95
+
+Image Optimization
+
+CDN Ready
+
+Caching
+
+Minification
+
+Code Splitting
+
+Compression
+
+Prefetch
+
+Preload
+
+Lazy Loading
+
+---
+
+## ACCESSIBILITY
+
+WCAG 2.2 AA
+
+Keyboard Navigation
+
+Screen Reader Support
+
+ARIA Labels
+
+Focus Indicators
+
+Contrast Compliance
+
+---
+
+## ANALYTICS
+
+Google Analytics 4
+
+Google Tag Manager
+
+Meta Pixel
+
+LinkedIn Insight
+
+Heatmaps
+
+Event Tracking
+
+Conversion Tracking
+
+Lead Tracking
+
+Funnels
+
+---
+
+## INTEGRATIONS
+
+Supabase
+
+Google Maps
+
+Google Calendar
+
+Google Drive
+
+Gmail SMTP
+
+WhatsApp Business API
+
+Stripe
+
+Razorpay
+
+PayPal
+
+Zoom
+
+Microsoft Teams
+
+Calendly
+
+Google Meet
+
+Cloudinary
+
+---
+
+## DATABASE DESIGN
+
+Create a normalized MySQL database including
+
+Users
+
+Roles
+
+Permissions
+
+Clients
+
+Projects
+
+Services
+
+Portfolio
+
+Testimonials
+
+Gallery
+
+Blog
+
+Categories
+
+Tags
+
+Forms
+
+Appointments
+
+Invoices
+
+Payments
+
+Documents
+
+Media
+
+Notifications
+
+Audit Logs
+
+Settings
+
+SEO
+
+Newsletter
+
+---
+
+## FILE STRUCTURE
+
+Generate a scalable enterprise folder structure.
+
+Separate
+
+Frontend
+
+Backend
+
+APIs
+
+Classes
+
+Assets
+
+Uploads
+
+Logs
+
+Database
+
+Configuration
+
+Cache
+
+Templates
+
+Modules
+
+---
+
+## CODING STANDARDS
+
+PSR Standards
+
+SOLID Principles
+
+MVC Architecture
+
+Reusable Components
+
+Modular Design
+
+Clean Code
+
+Object Oriented PHP
+
+Prepared Statements
+
+RESTful APIs
+
+Error Handling
+
+Logging
+
+Documentation
+
+---
+
+## OUTPUT REQUIREMENTS
+
+Generate
+
+Complete Project Structure
+
+Database Schema
+
+SQL Files
+
+PHP Source Code
+
+HTML
+
+CSS
+
+JavaScript
+
+AJAX
+
+REST APIs
+
+Authentication
+
+Admin Panel
+
+Client Dashboard
+
+CMS
+
+SEO
+
+Security
+
+Performance Optimization
+
+Deployment Guide
+
+Installation Guide
+
+User Manual
+
+Administrator Manual
+
+Developer Documentation
+
+API Documentation
+
+Testing Documentation
+
+Maintenance Documentation
+
+Backup Strategy
+
+Disaster Recovery Plan
+
+Future Scalability Plan
+
+The application must be fully responsive, enterprise-grade, secure, scalable, SEO optimized, accessible, modular, maintainable, production-ready, and suitable for a premium engineering consultancy website capable of serving thousands of concurrent users.
